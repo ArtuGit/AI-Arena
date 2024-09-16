@@ -1,2 +1,10 @@
+# IDE
 .idea
+
+# Python
 */.venv/*
+
+# Node
+**/node_modules/
+**/.parcel-cache/
+**/dist/
